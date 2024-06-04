@@ -1,7 +1,7 @@
 import Card from "./components/Card";
-
+import TwitterCard from "./components/TwitterCard";
 function App() {
-  return <Card></Card>;
+  return <TwitterCard />;
 }
 
 export default App;

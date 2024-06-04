@@ -1,0 +1,14 @@
+/* Card.css */
+
+  .card-img-top {
+    width: 100px; /* Ajusta el tamaño de la imagen según necesites */
+    height: 100px;
+    margin-right: 10px;
+  }
+  
+  .card-body {
+    flex: 1;
+    display: flex;
+    align-items: center;
+  }
+  
