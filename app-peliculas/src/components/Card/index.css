@@ -1,0 +1,14 @@
+.resultado {
+    text-align: center; /* Centra el contenido del div */
+  }
+  
+  .titulo {
+    font-size: 24px; /* Ajusta el tamaño del texto */
+  }
+  
+  .imagen {
+    width: 50%; /* Ajusta el ancho de la imagen al 50% del contenedor */
+    height: auto; /* Mantiene la relación de aspecto de la imagen */
+    display: block; /* Para centrar la imagen horizontalmente */
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+  }
